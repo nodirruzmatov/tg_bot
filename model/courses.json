@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "js",
+    "price": "800 000",
+    "description": "jsjsjsjssjs"
+  },
+  {
+    "id": 2,
+    "name": "nodejs",
+    "price": "9900 000",
+    "description": "nodenodenode"
+  },
+  {
+    "id": 3,
+    "name": "php",
+    "price": "900 000",
+    "description": "phpphpphpphp"
+  },
+  {
+    "id": 4,
+    "name": "ruby",
+    "price": "81200 000",
+    "description": "rubyrubyruby"
+  },
+  {
+    "id": 5,
+    "name": "go",
+    "price": "900 000",
+    "description": "nimadur"
+  }
+]
